@@ -1,0 +1,4 @@
+START
+INCR n1,n2
+DECR n3,n4
+END
